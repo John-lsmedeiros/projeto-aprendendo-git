@@ -15,7 +15,7 @@ body {
 div {
     display: flex;
     height: 5rem;
-    padding: .5rem;
+    padding: .5rem ;
     justify-content: space-between;
 
 }
@@ -37,4 +37,14 @@ a {
 
 a:hover {
     opacity: 60%;
+}
+
+.back {
+    margin: 6rem auto;
+    width: 95%;
+    background-image: url(./background.jpg);
+    height: 500px;
+    background-size: cover;
+    background-attachment: fixed;
+    border-radius: .5rem;
 }
