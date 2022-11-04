@@ -40,6 +40,7 @@ a:hover {
 }
 
 .back {
+    display: block;
     margin: 6rem auto;
     width: 95%;
     background-image: url(./background.jpg);
@@ -47,4 +48,16 @@ a:hover {
     background-size: cover;
     background-attachment: fixed;
     border-radius: .5rem;
+}
+
+.back h1{
+    padding: 1rem;
+    color: white;
+    font-size: 2.2rem;
+}
+
+.back p{
+    color: white;
+    padding: 0 1rem;
+
 }
