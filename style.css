@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+div{
+    display: flex;
+    height: 5rem;
+    padding: .5rem;
+}
+h1{
+    background-color: rgb(161, 241, 241);
+    width: 90%;
+    margin: auto;
+    padding: .6rem;
+    border-radius: .4rem;
+    color: #fff;
+}
+
